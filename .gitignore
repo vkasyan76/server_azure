@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore specific large file extensions, adjust as needed
+*.dll
+*.exe
+*.so
+*.dylib

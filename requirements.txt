@@ -1,0 +1,16 @@
+Flask
+flask_cors
+scikit-learn
+pandas
+numpy
+matplotlib
+gunicorn
+ipykernel
+seaborn
+cors
+yfinance
+tensorflow
+datetime
+pandas_datareader
+openpyxl
+python-dateutil==2.8.2
